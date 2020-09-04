@@ -17,7 +17,7 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 
 **Organizations:**
 <a href="https://github.com/zero-to-mastery">
-  <img align="left" alt="zero-to-master | GitHub" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/zero.svg" />
+  <img align="left" alt="zero-to-master | GitHub" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/zero.png" />
 </a>
 <br />
 
