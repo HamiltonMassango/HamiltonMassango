@@ -1,4 +1,4 @@
-### Hi there, I'm [Hamilton Silva!](https://twitter.com/tiohs_u/) 👋
+﻿### Hi there, I'm [Hamilton Silva!](https://twitter.com/tiohs_u/) 👋
 
 <a href="https://twitter.com/tiohs_u/">
   <img align="left" alt="Hamilton Silva | Twitter" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/twitter.svg" />
@@ -9,9 +9,9 @@
 
 Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backend web developer from India.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/HamiltonMassango/covid-19)
+- 🔭 I’m currently working on my project [Covid-MAp](https://github.com/HamiltonMassango/covid-19)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/zero-to-mastery)
+- 👯 I’m looking to collaborate on [Organizations](https://github.com/zero-to-mastery)
 
 <br />
 
