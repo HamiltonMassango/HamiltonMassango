@@ -35,10 +35,10 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HamiltonMassango&repo=github-readme-stats&theme=radical" />
 </a>    
 <a href="https://github.com/HamiltonMassango">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+ 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HamiltonMassango&repo=anuraghazra.github.io&theme=radical" />
 </a>
