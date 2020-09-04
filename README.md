@@ -1,10 +1,7 @@
-### Hi there, I'm [Hamilton Silva!](https://www.facebook.com/tiohs.u) 👋
+### Hi there, I'm [Hamilton Silva!](https://twitter.com/tiohs_u/) 👋
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/tiohs_u/">
   <img align="left" alt="Hamilton Silva | Twitter" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/discord-round.svg" />
 </a>
 
 <br />
@@ -14,8 +11,15 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/HamiltonMassango/covid-19)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/zero-to-mastery)
+
+<br />
+
+**Organizations:**
+<a href="https://github.com/zero-to-mastery">
+  <img align="left" alt="zero-to-master | GitHub" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/zero.svg" />
+</a>
+<br />
 
 **Languages and Tools:**  
 
@@ -34,11 +38,3 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HamiltonMassango&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HamiltonMassango&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/HamiltonMassango">
- 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HamiltonMassango&repo=anuraghazra.github.io&theme=radical" />
-</a>
