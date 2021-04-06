@@ -1,7 +1,7 @@
 ﻿### Hi there, I'm [Hamilton Silva!](https://twitter.com/tiohs_u/) 👋
 
 <a href="https://twitter.com/tiohs_u/">
-  <img align="left" alt="Hamilton Silva | Twitter" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/twitter.svg" />
+  <img align="left" alt="Hamilton Silva | Twitter" width="21px" src="https://raw.githubusercontent.com/tiohs/tiohs/master/assets/twitter.svg" />
 </a>
 
 <br />
@@ -9,7 +9,7 @@
 
 Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backend web developer from India.
 
-- 🔭 I’m currently working on my project [Covid-MAp](https://github.com/HamiltonMassango/covid-19)
+- 🔭 I’m currently working on my project [Covid-MAp](https://github.com/tiohs/covid-19)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborate on [Organizations](https://github.com/zero-to-mastery)
 
@@ -19,7 +19,7 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 
 
 <a href="https://github.com/zero-to-mastery">
-  <img align="left" alt="zero-to-master | GitHub" width="21px" src="https://raw.githubusercontent.com/HamiltonMassango/HamiltonMassango/master/assets/zero.png" />
+  <img align="left" alt="zero-to-master | GitHub" width="21px" src="https://raw.githubusercontent.com/tiohs/tiohs/master/assets/zero.png" />
 </a>
 
 
@@ -39,7 +39,7 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=HamiltonMassango&show_icons=true" alt="Hamilton Silva"/>
-<a href="https://github.com/HamiltonMassango/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HamiltonMassango&layout=compact" />
+<a href="https://github.com/tiohs/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tiohs&layout=compact" />
 </a>
 </p>
