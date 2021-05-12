@@ -7,12 +7,11 @@
 <br />
 <br />
 
-Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backend web developer from India.
+Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backend web developer from Angola, Luanda.
 
 - 🔭 I’m currently working on my project [Covid-MAp](https://github.com/tiohs/covid-19)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborate on [Organizations](https://github.com/zero-to-mastery)
-
 <br />
 
 **Organizations:**
@@ -49,7 +48,6 @@ Hi, I'm Hamilton Silva or Massango, a passionate self-taught frontEnd and backen
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
